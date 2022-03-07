@@ -8,6 +8,8 @@
 
 /* Begin PBXFileReference section */
 		B70B370D27B5D49200199580 /* Lab 2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 2"; sourceTree = "<group>"; };
+		B7792CAD27D6C59C0007F61A /* Lab 3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 3"; sourceTree = "<group>"; };
+		B7792CAE27D6C5A20007F61A /* Lab 4 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 4"; sourceTree = "<group>"; };
 		B798F3F727AC80C9002815A9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B798F3F827AC81E0002815A9 /* second-file.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "second-file.rtf"; sourceTree = "<group>"; };
 		B79D3BA827ACA8D1007382E0 /* Lab 1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 1"; sourceTree = "<group>"; };
@@ -17,6 +19,8 @@
 		B798F3F027AC80BB002815A9 = {
 			isa = PBXGroup;
 			children = (
+				B7792CAE27D6C5A20007F61A /* Lab 4 */,
+				B7792CAD27D6C59C0007F61A /* Lab 3 */,
 				B70B370D27B5D49200199580 /* Lab 2 */,
 				B79D3BA827ACA8D1007382E0 /* Lab 1 */,
 				B798F3F827AC81E0002815A9 /* second-file.rtf */,
