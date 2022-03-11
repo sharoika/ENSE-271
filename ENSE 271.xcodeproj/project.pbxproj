@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		B705354327DB1708009219F6 /* Lab 5 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 5"; sourceTree = "<group>"; };
 		B70B370D27B5D49200199580 /* Lab 2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 2"; sourceTree = "<group>"; };
 		B7792CAD27D6C59C0007F61A /* Lab 3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 3"; sourceTree = "<group>"; };
 		B7792CAE27D6C5A20007F61A /* Lab 4 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Lab 4"; sourceTree = "<group>"; };
@@ -19,6 +20,7 @@
 		B798F3F027AC80BB002815A9 = {
 			isa = PBXGroup;
 			children = (
+				B705354327DB1708009219F6 /* Lab 5 */,
 				B7792CAE27D6C5A20007F61A /* Lab 4 */,
 				B7792CAD27D6C59C0007F61A /* Lab 3 */,
 				B70B370D27B5D49200199580 /* Lab 2 */,
