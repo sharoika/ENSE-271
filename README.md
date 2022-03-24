@@ -11,3 +11,9 @@
 # Lab 5: Wordpress Environment Setup with Local
 
 # Lab 6: Wordpress Themes and Site-building
+
+# Activity 1: USM and Empathy Mapping
+
+# Activity 2: Lo-Fi Prototyping
+
+# Activity 3: Hi-Fi Prototyping
